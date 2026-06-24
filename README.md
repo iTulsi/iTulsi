@@ -143,11 +143,8 @@ This section is updated automatically from my public GitHub activity.
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=iTulsi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-  alt="Tulsi's GitHub statistics"
-/>
+[![Tulsi Sanskrati Tomar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTulsi\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github\&cache_seconds=21600\&custom_title=Tulsi%20Sanskrati%20Tomar%27s%20GitHub%20Stats)](https://github.com/iTulsi)
+
 
 <img
   height="170"
@@ -184,4 +181,3 @@ while building:
 
 Delhi NCR, India · Open to remote opportunities
 
-</div>
