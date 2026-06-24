@@ -10,15 +10,21 @@
 ### AI/ML · GenAI · Python · Full-Stack · Space Systems
 
 I build practical AI products, real-time systems, and full-stack applications
-with an emphasis on clean architecture, testing, and production deployment.
+with an emphasis on clean architecture, testing, reliability, and production deployment.
 
 <br>
 
 <a href="mailto:tulsitomar2019@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact Tulsi by email"
+  />
 </a>
 <a href="https://github.com/iTulsi?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Tulsi's GitHub repositories"
+  />
 </a>
 
 </div>
@@ -27,12 +33,12 @@ with an emphasis on clean architecture, testing, and production deployment.
 
 ## About Me
 
-- Currently building **CareerCraft AI**, a GenAI resume and job-description analysis platform
-- Developed **OrbitOPS**, a real-time satellite and orbital-debris intelligence system
-- Strengthening **DSA and problem-solving in Python**
-- Exploring **RAG, vector databases, LLM application architecture, and production AI**
-- Interested in **AI/ML, GenAI, backend systems, and developer tooling**
-- Open to **AI/ML and GenAI internship opportunities**
+* Building **CareerCraft AI**, a GenAI-powered resume and job-description analysis platform
+* Developed **OrbitOPS**, a real-time satellite and orbital-debris intelligence system
+* Strengthening **data structures, algorithms, and problem-solving in Python**
+* Exploring **RAG, embeddings, vector databases, LLM evaluation, and AI application architecture**
+* Interested in **AI/ML, GenAI, backend engineering, and developer tooling**
+* Open to **AI/ML and GenAI internship opportunities**
 
 ---
 
@@ -41,18 +47,24 @@ with an emphasis on clean architecture, testing, and production deployment.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"
+    alt="Python, Java, JavaScript, HTML and CSS"
+  />
 </p>
 
 ### AI, Data, and Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,fastapi&theme=dark" alt="AI and backend tools" />
+  <img
+    src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,fastapi&theme=dark"
+    alt="TensorFlow, scikit-learn, Flask and FastAPI"
+  />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="Retrieval-Augmented Generation" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -61,7 +73,10 @@ with an emphasis on clean architecture, testing, and production deployment.
 ### Frontend, Testing, and Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,docker&theme=dark" alt="Frontend and engineering tools" />
+  <img
+    src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,docker&theme=dark"
+    alt="React, Vite, Tailwind CSS, Git, GitHub and Docker"
+  />
 </p>
 
 <p>
@@ -75,50 +90,71 @@ with an emphasis on clean architecture, testing, and production deployment.
 
 ## Featured Project
 
-### OrbitOPS
+### 🛰️ OrbitOPS
 
-A real-time satellite and orbital-debris monitoring platform that combines live orbital data, SGP4 propagation, conjunction screening, risk analytics, a Flask API, and an interactive Three.js globe.
+A real-time satellite and orbital-debris intelligence platform combining live orbital data, SGP4 propagation, conjunction screening, risk analytics, a Flask API, and an interactive Three.js globe.
 
-**Engineering highlights**
+#### Engineering Highlights
 
-- Live CelesTrak orbital-data ingestion
-- SGP4-based position and velocity propagation
-- Collision-risk and conjunction analysis
-- Flask REST API and Socket.IO updates
-- React, Vite, and Three.js visualization
-- Automated backend tests and GitHub Actions CI
-- Production deployment workflow
+* Ingests live orbital-element data from **CelesTrak**
+* Propagates satellite position and velocity using **SGP4**
+* Performs conjunction screening and collision-risk analysis
+* Exposes data through a **Flask REST API** and **Socket.IO**
+* Visualizes orbital objects using **React, Vite, and Three.js**
+* Includes automated backend testing with **pytest**
+* Uses **GitHub Actions** for continuous integration
+* Supports a production deployment workflow
+
+<div align="center">
 
 <a href="https://github.com/iTulsi/OrbitOPS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iTulsi&repo=OrbitOPS&theme=github_dark&hide_border=true" alt="OrbitOPS repository card" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=iTulsi&repo=OrbitOPS&theme=github_dark&hide_border=true"
+    alt="OrbitOPS GitHub repository"
+  />
 </a>
+
+</div>
 
 ---
 
 ## Currently Building
 
-### CareerCraft AI
+### 🧠 CareerCraft AI
 
-A GenAI-powered resume and job-description analyzer focused on semantic matching, explainable scoring, missing-skill detection, resume improvement suggestions, and interview-question generation.
+A GenAI-powered resume and job-description analysis platform designed to provide semantic matching, explainable scoring, missing-skill detection, resume improvement suggestions, and personalized interview preparation.
 
 ```text
 Pipeline: PDF parsing → embeddings → vector search → RAG → explainable analysis
+
 Stack:    Python · LangChain · FAISS/Chroma · Streamlit · LLM APIs
+
 Status:   Active development
 ```
+
+### Planned Capabilities
+
+* Resume PDF parsing and structured section extraction
+* Semantic resume-to-job-description matching
+* Explainable compatibility scoring
+* Missing-skill and keyword identification
+* Resume improvement recommendations
+* HR and technical interview-question generation
+* Exportable analysis reports
+* Retrieval and LLM evaluation workflows
 
 ---
 
 ## Current Focus
 
-| Focus Area | What I am improving | Momentum |
-|---|---|---|
-| DSA | Problem-solving patterns, clean logic, and complexity analysis | `██████░░░░` |
-| GenAI Engineering | RAG, embeddings, retrieval, evaluation, and prompt design | `███████░░░` |
-| Production AI | Testing, deployment, observability, and reliability | `██████░░░░` |
-| Full-Stack Systems | React interfaces connected to dependable Python backends | `████████░░` |
+| Focus Area             | What I Am Improving                                            |   Momentum   |
+| ---------------------- | -------------------------------------------------------------- | :----------: |
+| **DSA**                | Problem-solving patterns, clean logic, and complexity analysis | `██████░░░░` |
+| **GenAI Engineering**  | RAG, embeddings, retrieval, evaluation, and prompt design      | `███████░░░` |
+| **Production AI**      | Testing, deployment, observability, and reliability            | `██████░░░░` |
+| **Full-Stack Systems** | React interfaces connected to dependable Python backends       | `████████░░` |
 
-> Current priority: ship CareerCraft AI while building consistent DSA fundamentals.
+> **Current priority:** Ship CareerCraft AI while building consistent DSA fundamentals.
 
 ---
 
@@ -127,14 +163,7 @@ Status:   Active development
 This section is updated automatically from my public GitHub activity.
 
 <!--START_SECTION:activity-->
-| Date | Activity | Repository |
-|---|---|---|
-| 23 Jun 2026 | Pushed **0 commits** to `main` | [`iTulsi/OrbitOPS`](https://github.com/iTulsi/OrbitOPS) |
-| 23 Jun 2026 | Unlabeled issue [#5: Orphaned risk_engine.py appears unused in production and duplicates active risk logic](https://github.com/iTulsi/OrbitOPS/issues/5) | [`iTulsi/OrbitOPS`](https://github.com/iTulsi/OrbitOPS) |
-| 23 Jun 2026 | Merged PR [#6: Pull request](https://github.com/iTulsi/OrbitOPS/pulls) | [`iTulsi/OrbitOPS`](https://github.com/iTulsi/OrbitOPS) |
-| 23 Jun 2026 | Closed issue [#1: Docs: Add a contributor guide and local development instructions](https://github.com/iTulsi/OrbitOPS/issues/1) | [`iTulsi/OrbitOPS`](https://github.com/iTulsi/OrbitOPS) |
-| 23 Jun 2026 | Opened PR [#6: Pull request](https://github.com/iTulsi/OrbitOPS/pulls) | [`iTulsi/OrbitOPS`](https://github.com/iTulsi/OrbitOPS) |
-| 23 Jun 2026 | Created branch `develop` | [`iTulsi/Vigilattice`](https://github.com/iTulsi/Vigilattice) |
+
 <!--END_SECTION:activity-->
 
 ---
@@ -143,22 +172,31 @@ This section is updated automatically from my public GitHub activity.
 
 <div align="center">
 
-[![Tulsi Sanskrati Tomar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTulsi\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github\&cache_seconds=21600\&custom_title=Tulsi%20Sanskrati%20Tomar%27s%20GitHub%20Stats)](https://github.com/iTulsi)
+<a href="https://github.com/iTulsi">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=iTulsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=21600&custom_title=Tulsi%20Sanskrati%20Tomar%27s%20GitHub%20Stats"
+    alt="Tulsi Sanskrati Tomar's GitHub statistics"
+  />
+</a>
 
-
-<img
-  height="170"
-  src="https://streak-stats.demolab.com?user=iTulsi&theme=github-dark-blue&hide_border=true"
-  alt="Tulsi's GitHub streak"
-/>
+<a href="https://github.com/iTulsi">
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=iTulsi&theme=github-dark-blue&hide_border=true&mode=daily&v=3"
+    alt="Tulsi Sanskrati Tomar's GitHub contribution streak"
+  />
+</a>
 
 <br>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTulsi&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-  alt="Most used languages"
-/>
+<a href="https://github.com/iTulsi?tab=repositories">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTulsi&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    alt="Most frequently used programming languages"
+  />
+</a>
 
 </div>
 
@@ -169,15 +207,19 @@ This section is updated automatically from my public GitHub activity.
 ```python
 while building:
     understand_the_problem()
+    design_before_coding()
     write_readable_code()
     test_the_risky_parts()
-    ship()
+    ship_to_production()
     learn_from_feedback()
 ```
 
+---
+
 <div align="center">
 
-**Building intelligent products that are useful beyond the demo.**
+### Building intelligent products that are useful beyond the demo.
 
-Delhi NCR, India · Open to remote opportunities
+**Delhi NCR, India · Open to remote opportunities**
 
+</div>
