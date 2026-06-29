@@ -16,13 +16,15 @@ then test them, break them, fix them, and actually ship them.
 
 <img
   src="https://gist.githubusercontent.com/akgondber/0613770f03dba417d9942b3f9f8c9d43/raw/9443fbae7558216df84a24e71e4eb46ec07ae8f1/typing-cat.gif"
-  width="360"
+  width="260"
   alt="Cat continuously typing on a laptop"
 />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itulsitomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itulsitomar/)
+[![DEV](https://img.shields.io/badge/DEV-itulsi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/itulsi)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-tulsitomtje3-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tulsitomtje3)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulsitomar2019@gmail.com)
 [![Repositories](https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iTulsi?tab=repositories)
 
