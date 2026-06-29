@@ -1,0 +1,56 @@
+name: Refresh profile data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_contributions.py"
+      - "tests/test_update_contributions.py"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+
+concurrency:
+  group: refresh-profile-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run updater tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh pull request table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_contributions.py
+
+      - name: Commit changed profile data
+        run: |
+          if git diff --quiet README.md; then
+            echo "Profile data is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile contributions"
+          git pull --rebase origin main
+          git push origin HEAD:main
