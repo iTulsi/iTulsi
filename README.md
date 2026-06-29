@@ -116,43 +116,33 @@ while (bug.exists()) {
 
 ## GitHub Snapshot
 
-<div align="center">
+<p align="center">
+  <img
+    width="36%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTulsi&theme=github_dark"
+    alt="Tulsi's GitHub statistics"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="36%"
+    src="https://streak-stats.demolab.com?user=iTulsi&theme=github-dark-blue&hide_border=true&mode=daily"
+    alt="Tulsi's GitHub contribution streak"
+  />
+</p>
 
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTulsi&theme=github_dark"
-  alt="Tulsi's GitHub profile summary"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTulsi&theme=github_dark"
-  alt="Tulsi's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=iTulsi&theme=github-dark-blue&hide_border=true&mode=daily"
-  alt="Tulsi's GitHub contribution streak"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTulsi&theme=github_dark"
-  alt="Tulsi's most used commit languages"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iTulsi&theme=github_dark&utcOffset=5.5"
-  alt="Tulsi's most productive coding time"
-/>
-
-</div>
+<p align="center">
+  <img
+    width="36%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTulsi&theme=github_dark"
+    alt="Tulsi's most used commit languages"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="36%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iTulsi&theme=github_dark&utcOffset=5.5"
+    alt="Tulsi's most productive coding time"
+  />
+</p>
 ---
 
 ## Current Focus
