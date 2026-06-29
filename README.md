@@ -39,8 +39,6 @@ then test them, break them, fix them, and actually ship them.
 - Developed **OrbitOPS**, a real-time satellite and orbital-debris intelligence system
 - Practising **DSA in C++ and Python**
 - Exploring **RAG, embeddings, semantic evaluation, LLM systems, and reliable backend architecture**
-- Contributing to open source with **GSoC 2027** as a long-term target
-- Open to **AI/ML, GenAI, Python backend, and software engineering internships**
 
 ---
 
