@@ -166,7 +166,12 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
-| Loading recent pull requests… | - | - |
+| [#3 feat: add labelled evaluation benchmark](https://github.com/iTulsi/CareerCraft-AI/pull/3) | `iTulsi/CareerCraft-AI` | Merged |
+| [#2 feat: compare deterministic and semantic matching](https://github.com/iTulsi/CareerCraft-AI/pull/2) | `iTulsi/CareerCraft-AI` | Merged |
+| [#1 Feat/interview practice](https://github.com/iTulsi/CareerCraft-AI/pull/1) | `iTulsi/CareerCraft-AI` | Merged |
+| [#9 CI: Upgrade artifact upload action for Node 24](https://github.com/iTulsi/Vigilattice/pull/9) | `iTulsi/Vigilattice` | Merged |
+| [#8 Release: Prepare Vigilattice v1.0.0](https://github.com/iTulsi/Vigilattice/pull/8) | `iTulsi/Vigilattice` | Merged |
+| [#7 Docs: Publish Vigilattice production release](https://github.com/iTulsi/Vigilattice/pull/7) | `iTulsi/Vigilattice` | Merged |
 <!--END_SECTION:contributions-->
 
 ---
