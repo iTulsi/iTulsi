@@ -163,12 +163,12 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
+| [#10 fix: compare memory cards by symbol](https://github.com/Manvikamboz/JJK-Retro-Arcade/pull/10) | `Manvikamboz/JJK-Retro-Arcade` | Open |
 | [#11 Docs/gesture follow up notes](https://github.com/iTulsi/OrbitOPS/pull/11) | `iTulsi/OrbitOPS` | Merged |
 | [#10 Docs/gesture readiness 20260703 234533](https://github.com/iTulsi/OrbitOPS/pull/10) | `iTulsi/OrbitOPS` | Merged |
 | [#9 docs: define gesture-control product and engineering requirements](https://github.com/iTulsi/OrbitOPS/pull/9) | `iTulsi/OrbitOPS` | Merged |
 | [#8 docs: improve community governance](https://github.com/iTulsi/OrbitOPS/pull/8) | `iTulsi/OrbitOPS` | Closed |
 | [#4 chore: prepare production release](https://github.com/iTulsi/CareerCraft-AI/pull/4) | `iTulsi/CareerCraft-AI` | Merged |
-| [#3 feat: add labelled evaluation benchmark](https://github.com/iTulsi/CareerCraft-AI/pull/3) | `iTulsi/CareerCraft-AI` | Merged |
 <!--END_SECTION:contributions-->
 
 ---
