@@ -163,7 +163,7 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
-| [#10 fix: compare memory cards by symbol](https://github.com/Manvikamboz/JJK-Retro-Arcade/pull/10) | `Manvikamboz/JJK-Retro-Arcade` | Open |
+| [#10 fix: compare memory cards by symbol](https://github.com/Manvikamboz/JJK-Retro-Arcade/pull/10) | `Manvikamboz/JJK-Retro-Arcade` | Merged |
 | [#11 Docs/gesture follow up notes](https://github.com/iTulsi/OrbitOPS/pull/11) | `iTulsi/OrbitOPS` | Merged |
 | [#10 Docs/gesture readiness 20260703 234533](https://github.com/iTulsi/OrbitOPS/pull/10) | `iTulsi/OrbitOPS` | Merged |
 | [#9 docs: define gesture-control product and engineering requirements](https://github.com/iTulsi/OrbitOPS/pull/9) | `iTulsi/OrbitOPS` | Merged |
