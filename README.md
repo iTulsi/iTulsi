@@ -154,12 +154,12 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
+| [#5 Docs/engineering operations 20260713 225852](https://github.com/iTulsi/CareerCraft-AI/pull/5) | `iTulsi/CareerCraft-AI` | Merged |
 | [#14 fix: authenticate Gemini requests with headers](https://github.com/iTulsi/OrbitOPS/pull/14) | `iTulsi/OrbitOPS` | Merged |
 | [#13 fix: serve React frontend on Vercel](https://github.com/iTulsi/OrbitOPS/pull/13) | `iTulsi/OrbitOPS` | Merged |
 | [#12 deploy: support full-stack Vercel runtime](https://github.com/iTulsi/OrbitOPS/pull/12) | `iTulsi/OrbitOPS` | Merged |
 | [#10 fix: compare memory cards by symbol](https://github.com/Manvikamboz/JJK-Retro-Arcade/pull/10) | `Manvikamboz/JJK-Retro-Arcade` | Merged |
 | [#11 Docs/gesture follow up notes](https://github.com/iTulsi/OrbitOPS/pull/11) | `iTulsi/OrbitOPS` | Merged |
-| [#10 Docs/gesture readiness 20260703 234533](https://github.com/iTulsi/OrbitOPS/pull/10) | `iTulsi/OrbitOPS` | Merged |
 <!--END_SECTION:contributions-->
 
 ---
