@@ -154,12 +154,12 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
+| [#19 security: sanitize server error responses](https://github.com/iTulsi/OrbitOPS/pull/19) | `iTulsi/OrbitOPS` | Merged |
 | [#18 security: remove unauthenticated force refresh](https://github.com/iTulsi/OrbitOPS/pull/18) | `iTulsi/OrbitOPS` | Merged |
 | [#17 security: validate production configuration](https://github.com/iTulsi/OrbitOPS/pull/17) | `iTulsi/OrbitOPS` | Merged |
 | [#16 chore: align repository documentation and hygiene](https://github.com/iTulsi/OrbitOPS/pull/16) | `iTulsi/OrbitOPS` | Merged |
 | [#15 feat: centralize conjunction risk scoring](https://github.com/iTulsi/OrbitOPS/pull/15) | `iTulsi/OrbitOPS` | Merged |
 | [#5 Docs/engineering operations 20260713 225852](https://github.com/iTulsi/CareerCraft-AI/pull/5) | `iTulsi/CareerCraft-AI` | Merged |
-| [#14 fix: authenticate Gemini requests with headers](https://github.com/iTulsi/OrbitOPS/pull/14) | `iTulsi/OrbitOPS` | Merged |
 <!--END_SECTION:contributions-->
 
 ---
