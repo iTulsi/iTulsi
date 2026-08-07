@@ -154,12 +154,12 @@ My latest public pull requests are refreshed automatically:
 <!--START_SECTION:contributions-->
 | Pull Request | Repository | Status |
 | --- | --- | --- |
+| [#21 fix: enforce collection result limits](https://github.com/iTulsi/OrbitOPS/pull/21) | `iTulsi/OrbitOPS` | Merged |
 | [#20 security: sanitize direct server errors](https://github.com/iTulsi/OrbitOPS/pull/20) | `iTulsi/OrbitOPS` | Merged |
 | [#19 security: sanitize server error responses](https://github.com/iTulsi/OrbitOPS/pull/19) | `iTulsi/OrbitOPS` | Merged |
 | [#18 security: remove unauthenticated force refresh](https://github.com/iTulsi/OrbitOPS/pull/18) | `iTulsi/OrbitOPS` | Merged |
 | [#17 security: validate production configuration](https://github.com/iTulsi/OrbitOPS/pull/17) | `iTulsi/OrbitOPS` | Merged |
 | [#16 chore: align repository documentation and hygiene](https://github.com/iTulsi/OrbitOPS/pull/16) | `iTulsi/OrbitOPS` | Merged |
-| [#15 feat: centralize conjunction risk scoring](https://github.com/iTulsi/OrbitOPS/pull/15) | `iTulsi/OrbitOPS` | Merged |
 <!--END_SECTION:contributions-->
 
 ---
